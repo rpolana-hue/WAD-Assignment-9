@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE Bookstore SYSTEM "books.dtd">
+<Bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+           xsi:noNamespaceSchemaLocation="books.xsd">
+    <Book>
+        <Title>The Great Gatsby</Title>
+        <Author>F. Scott Fitzgerald</Author>
+        <ISBN>978-0743273565</ISBN>
+        <Publisher>Scribner</Publisher>
+        <Edition>1st</Edition>
+        <Price>400</Price>
+    </Book>
+    <Book>
+        <Title>To Kill a Mockingbird</Title>
+        <Author>Harper Lee</Author>
+        <ISBN>978-0061120084</ISBN>
+        <Publisher>J.B. Lippincott &amp; Co.</Publisher>
+        <Edition>50th Anniversary</Edition>
+        <Price>250</Price>
+    </Book>
+    <Book>
+        <Title>1984</Title>
+        <Author>George Orwell</Author>
+        <ISBN>978-0451524935</ISBN>
+        <Publisher>Secker &amp; Warburg</Publisher>
+        <Edition>Centennial Edition</Edition>
+        <Price>150</Price>
+    </Book>
+    <Book>
+        <Title>The Hobbit</Title>
+        <Author>J.R.R. Tolkien</Author>
+        <ISBN>978-0547928227</ISBN>
+        <Publisher>Houghton Mifflin</Publisher>
+        <Edition>Revised Edition</Edition>
+        <Price>350</Price>
+    </Book>
+    <Book>
+        <Title>The Catcher in the Rye</Title>
+        <Author>J.D. Salinger</Author>
+        <ISBN>978-0316769488</ISBN>
+        <Publisher>Little, Brown and Company</Publisher>
+        <Edition>Reprint</Edition>
+        <Price>200</Price>
+    </Book>
+</Bookstore>
